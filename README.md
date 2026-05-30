@@ -30,7 +30,7 @@ The analysis focuses on:
 
 ## Files
 
-- `stack-overflow-survey-analysis.ipynb` — main analysis notebook
+- `stack_overflow_survey_analysis.ipynb` — main analysis notebook
 
 ## Author
 
