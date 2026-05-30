@@ -1,4 +1,4 @@
-# Stack Overflow Developer Survey Analysis
+# Developer Survey Analysis
 
 ## Open in Google Colab
 
@@ -43,7 +43,7 @@ The analysis focuses on:
 
 ## Files
 
-- `stack_overflow_survey_analysis.ipynb` — main analysis notebook
+- `developer_survey_analysis.ipynb` — main analysis notebook
 - `python_popularity_by_age.png` — sample visualization
 - `top_industries_remote_workers.png` — sample visualization
 
