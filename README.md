@@ -31,12 +31,21 @@ The analysis focuses on:
 - Compensation varies significantly across countries.
 - Remote work remains common among developers.
 - High-paid remote workers are concentrated in specific industries.
+  ## Sample Visualizations
+
+### Python Popularity by Age Group
+
+![Python Popularity by Age Group](python_popularity_by_age.png)
+
+### Top Industries Among High-Paid Remote Workers
+
+![Top Industries Among High-Paid Remote Workers](top_industries_remote_workers.png)
 
 ## Files
 
 - `stack_overflow_survey_analysis.ipynb` — main analysis notebook
 - `python_popularity_by_age.png` — sample visualization
-- `top_industries.png` — sample visualization
+- `top_industries_remote_workers.png` — sample visualization
 
 ## Author
 
