@@ -1,5 +1,9 @@
 # Stack Overflow Developer Survey Analysis
 
+## Open in Google Colab
+
+[Open Notebook in Google Colab](https://colab.research.google.com/drive/1Zbntlt4vdbMHiYa4GfDGVbIWHJUFEyov)
+
 ## Overview
 
 This project explores the Stack Overflow Developer Survey dataset using Python and Pandas.
@@ -30,7 +34,9 @@ The analysis focuses on:
 
 ## Files
 
-- `stack_overflow_survey_analysis.ipynb` — main analysis notebook
+- `developer_survey_analysis.ipynb` — main analysis notebook
+- `python_popularity_by_age.png` — sample visualization
+- `top_industries.png` — sample visualization
 
 ## Author
 
