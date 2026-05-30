@@ -34,7 +34,7 @@ The analysis focuses on:
 
 ## Files
 
-- `developer_survey_analysis.ipynb` — main analysis notebook
+- `stack_overflow_survey_analysis.ipynb` — main analysis notebook
 - `python_popularity_by_age.png` — sample visualization
 - `top_industries.png` — sample visualization
 
